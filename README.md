@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+<img src="https://bitbucket.org/nbthales/animations/raw/f483faf9b56ad1f5e72556122b2d6983fad5c813/assets/animations.gif" width="60" height="60" />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
