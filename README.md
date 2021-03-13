@@ -1,1 +1,1 @@
-![Alt Text](https://bitbucket.org/nbthales/animations/raw/f483faf9b56ad1f5e72556122b2d6983fad5c813/assets/animations.gif)
+![Alt Text](https://bitbucket.org/nbthales/animations/raw/6187908d196a6defff5176679aabbe8e5d67920b/assets/animations.gif)
